@@ -1,0 +1,6 @@
+call 'reverse_string' at 2021-10-28 08:25:30.784608
+with args ('QWERTYUIOP',), kwargs {} result (POIUYTREWQ)
+call 'reverse_string' at 2021-10-28 08:25:30.784608
+with args ('ASDFGHJKL',), kwargs {'lower': True} result (lkjhgfdsa)
+call 'reverse_string' at 2021-10-28 08:25:30.784608
+with args ('ZXCVBNM',), kwargs {} result (MNBVCXZ)
